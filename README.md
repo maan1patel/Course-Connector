@@ -1,6 +1,3 @@
-# Writing the README content to a file
-
-readme_content = """
 # **CourseConnector**
 
 ## **Overview**

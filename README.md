@@ -1,4 +1,3 @@
-CourseConnector by Maan and Hemil
 # **CourseConnector**
 
 ## **Overview**

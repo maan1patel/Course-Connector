@@ -29,8 +29,8 @@ The project follows a modular structure with clear separation of concerns:
 
 ---
 ## **Collaborators**
-Hemil Patel: https://github.com/hemilpatel8182
-Maan Patel: https://github.com/maan1patel
+**Hemil Patel: https://github.com/hemilpatel8182
+**Maan Patel: https://github.com/maan1patel
 ---
 
 ## **System Design**

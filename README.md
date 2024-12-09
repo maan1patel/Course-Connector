@@ -28,6 +28,10 @@ The project follows a modular structure with clear separation of concerns:
 4. **Study Group Management**: Facilitate group coordination and collaboration.
 
 ---
+## **Collaborators**
+Hemil Patel: https://github.com/hemilpatel8182
+Maan Patel: https://github.com/maan1patel
+---
 
 ## **System Design**
 ### **Diagrams**
